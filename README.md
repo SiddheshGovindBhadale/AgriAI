@@ -46,6 +46,7 @@ If everything is set up _correctly_, you should see your new app running in your
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
+<h1>Screenshort</h1>
 <p align="center">
 <kbd><img src="https://github.com/SiddheshGovindBhadale/AgriAI/assets/82762994/ddf9905a-5e61-42aa-b6a7-b173da4e977d" width=250 height=500></kbd>&nbsp;&thinsp;
 <kbd><img src="https://github.com/SiddheshGovindBhadale/AgriAI/assets/82762994/7f2270c3-bf84-4ecd-a01c-27d3b75e5e06" width=250 height=500></kbd>&nbsp;&thinsp;
