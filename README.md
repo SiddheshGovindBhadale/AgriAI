@@ -48,19 +48,16 @@ This is one way to run your app — you can also run it directly from within And
 
 
 <kbd><img src="https://github.com/SiddheshGovindBhadale/AgriAI/assets/82762994/ddf9905a-5e61-42aa-b6a7-b173da4e977d" width=250 height=500></kbd>
-<!-- <img src="Assets/icon.png" width=250 height=200> -->
-![Screenshot_2024-06-10-12-19-33-48]()
-![Screenshot_2024-06-10-12-19-22-10_1c41e48ec2688ac5aba304024c990c13](https://github.com/SiddheshGovindBhadale/AgriAI/assets/82762994/7f2270c3-bf84-4ecd-a01c-27d3b75e5e06)
-![Screenshot_2024-06-10-12-14-43-93_1c41e48ec2688ac5aba304024c990c13](https://github.com/SiddheshGovindBhadale/AgriAI/assets/82762994/46633c0b-9419-4477-8dec-6c24f713a6f7)
-![Screenshot_2024-06-10-12-14-50-21_1c41e48ec2688ac5aba304024c990c13](https://github.com/SiddheshGovindBhadale/AgriAI/assets/82762994/b321ebbb-4924-4902-b096-980c2936ee20)
-![Screenshot_2024-06-10-12-14-53-70_1c41e48ec2688ac5aba304024c990c13](https://github.com/SiddheshGovindBhadale/AgriAI/assets/82762994/773e6616-e3a1-4274-8455-d16b92d16686)
+<kbd><img src="https://github.com/SiddheshGovindBhadale/AgriAI/assets/82762994/7f2270c3-bf84-4ecd-a01c-27d3b75e5e06" width=250 height=500></kbd>
+<kbd><img src="https://github.com/SiddheshGovindBhadale/AgriAI/assets/82762994/46633c0b-9419-4477-8dec-6c24f713a6f7" width=250 height=500></kbd>
+<kbd><img src="https://github.com/SiddheshGovindBhadale/AgriAI/assets/82762994/b321ebbb-4924-4902-b096-980c2936ee20" width=250 height=500></kbd>
+<kbd><img src="https://github.com/SiddheshGovindBhadale/AgriAI/assets/82762994/773e6616-e3a1-4274-8455-d16b92d16686" width=250 height=500></kbd>
+<kbd><img src="https://github.com/SiddheshGovindBhadale/AgriAI/assets/82762994/85768bdf-fe56-4bba-8157-741ad8973592" width=250 height=500></kbd>
+<kbd><img src="https://github.com/SiddheshGovindBhadale/AgriAI/assets/82762994/2717918d-c457-4da5-b468-09cee34335f3" width=250 height=500></kbd>
+<kbd><img src="https://github.com/SiddheshGovindBhadale/AgriAI/assets/82762994/257559cf-e10c-4456-a49f-0e31b7e2ea1c" width=250 height=500></kbd>
+<kbd><img src="https://github.com/SiddheshGovindBhadale/AgriAI/assets/82762994/600ed6a9-5fd9-456c-ad8f-8b3bc188764b" width=250 height=500></kbd>
+<kbd><img src="https://github.com/SiddheshGovindBhadale/AgriAI/assets/82762994/461936aa-921c-4902-a6c9-3ed8c5e2749b" width=250 height=500></kbd>
 
-![Screenshot_2024-06-10-12-16-01-93_1c41e48ec2688ac5aba304024c990c13](https://github.com/SiddheshGovindBhadale/AgriAI/assets/82762994/85768bdf-fe56-4bba-8157-741ad8973592)
-![Screenshot_2024-06-10-12-16-07-73_1c41e48ec2688ac5aba304024c990c13](https://github.com/SiddheshGovindBhadale/AgriAI/assets/82762994/2717918d-c457-4da5-b468-09cee34335f3)
-
-![Screenshot_2024-06-10-12-16-17-39_1c41e48ec2688ac5aba304024c990c13](https://github.com/SiddheshGovindBhadale/AgriAI/assets/82762994/257559cf-e10c-4456-a49f-0e31b7e2ea1c)
-![Screenshot_2024-06-10-12-16-22-76_1c41e48ec2688ac5aba304024c990c13](https://github.com/SiddheshGovindBhadale/AgriAI/assets/82762994/600ed6a9-5fd9-456c-ad8f-8b3bc188764b)
-![Screenshot_2024-06-10-12-16-30-45_1c41e48ec2688ac5aba304024c990c13](https://github.com/SiddheshGovindBhadale/AgriAI/assets/82762994/461936aa-921c-4902-a6c9-3ed8c5e2749b)
 
 
 ### Now what?
